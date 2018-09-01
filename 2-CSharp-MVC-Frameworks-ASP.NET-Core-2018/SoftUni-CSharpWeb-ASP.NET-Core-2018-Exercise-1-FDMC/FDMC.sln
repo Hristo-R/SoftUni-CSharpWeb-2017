@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FDMC.App", "FDMC.App\FDMC.App.csproj", "{7602ED4B-A700-46BC-96A7-C512C3AA1D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FDMC.Models", "FDMC.Models\FDMC.Models.csproj", "{1FADF718-1522-4E75-A8F6-262E9D14BFB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FDMC.Data", "FDMC.Data\FDMC.Data.csproj", "{BA86735D-BB1E-4835-AD0F-179C1F7913EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7602ED4B-A700-46BC-96A7-C512C3AA1D2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7602ED4B-A700-46BC-96A7-C512C3AA1D2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7602ED4B-A700-46BC-96A7-C512C3AA1D2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7602ED4B-A700-46BC-96A7-C512C3AA1D2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FADF718-1522-4E75-A8F6-262E9D14BFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FADF718-1522-4E75-A8F6-262E9D14BFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FADF718-1522-4E75-A8F6-262E9D14BFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FADF718-1522-4E75-A8F6-262E9D14BFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA86735D-BB1E-4835-AD0F-179C1F7913EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA86735D-BB1E-4835-AD0F-179C1F7913EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA86735D-BB1E-4835-AD0F-179C1F7913EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA86735D-BB1E-4835-AD0F-179C1F7913EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD05ECBD-356E-47C9-8045-8A22CF4B487A}
+	EndGlobalSection
+EndGlobal
